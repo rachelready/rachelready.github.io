@@ -1,0 +1,9 @@
+body {
+  font-family: italic;
+  font-size: 21px;
+  color: rgb(71, 47, 109);
+  background: rgb(130, 142, 43);
+}
+img {
+  max-width: 100%;
+}
